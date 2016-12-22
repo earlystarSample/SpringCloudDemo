@@ -26,6 +26,7 @@ public class StreamdemoApplication {
     @Bean
     @InboundChannelAdapter(value = Source.OUTPUT)
     public MessageSource<String> timerMessageSource() {
+        System.out.print("sss");
         return () -> new GenericMessage<>(new SimpleDateFormat().format(new Date()));
     }
 
