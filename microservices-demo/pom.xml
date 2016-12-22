@@ -12,11 +12,12 @@
         <module>cloud-config-server</module>
         <module>cloud-registry-server</module>
         <module>cloud-application-demo</module>
+        <module>cloud-stream-demo</module>
     </modules>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <java.version>1.7</java.version>
+        <java.version>1.8</java.version>
     </properties>
 
     <!--<parent>-->

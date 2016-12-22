@@ -1,8 +1,7 @@
-package com.mytest.microservices.configserver;
+package com.mytest.cloudstream.microservices.configserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.cloud.config.server.EnableConfigServer;
 
 /**
