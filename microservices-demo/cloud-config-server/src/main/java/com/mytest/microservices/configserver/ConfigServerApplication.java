@@ -1,4 +1,4 @@
-package com.mytest.cloudstream.microservices.configserver;
+package com.mytest.microservices.configserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
