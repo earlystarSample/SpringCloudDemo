@@ -12,6 +12,7 @@ import java.util.List;
 
 /**
  * Created by jinwen on 2016/11/28.
+ * 本类用于测试Eureka获取服务信息
  */
 @Component
 @RestController
